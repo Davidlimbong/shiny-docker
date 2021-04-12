@@ -31,7 +31,7 @@ Setelah melakukan `init` kalian akan mendapatkan file renv.lock yang berisi daft
 Dockerfile berisi perintah yang harus dilakukan docker ketika ingin build project ini menjadi image. Berikut penjelasan dari isi Dockerfile.
 
 
-Bagian pertama mengambil image yang sudah tersedia di dockerhub. Pada project ini image yang diambil dari (shiny)[https://hub.docker.com/u/rocker/].
+Bagian pertama mengambil image yang sudah tersedia di dockerhub. Pada project ini image yang diambil dari [shiny](https://hub.docker.com/r/rocker/shiny).
 
 ```
 # Base image https://hub.docker.com/u/rocker/
